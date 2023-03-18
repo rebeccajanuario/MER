@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T18:23:23.741Z" agent="5.0 (Windows)" etag="LqN2Z39VhLntSB7N_kBo" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T19:16:30.570Z" agent="5.0 (Windows)" etag="sJCu5zNjPP31tW1-FaWs" version="21.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -183,9 +183,6 @@
         </mxCell>
         <mxCell id="YdARfsgj66W7FU9EiuvG-59" value="(0,1)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="529" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lz_mdxryoPL5KlFru-BC-1" value="1 &lt;br&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 14.22%; top: 10.46%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.900126);&quot;&gt;Para cada uma das representações de dados de um&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 14.22%; top: 12.24%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.913921);&quot;&gt;problema seguir, crie o DER:&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="19" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
