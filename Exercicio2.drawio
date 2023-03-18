@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T00:08:32.225Z" agent="5.0 (Windows)" etag="6XZUnrKWcUFpxWh7QXM0" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T19:15:00.490Z" agent="5.0 (Windows)" etag="UGek32j__00wmMCDC0Uz" version="21.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bUCwfQKhajoaco4yRsPU-1" value="&lt;div&gt;2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consultas médicas&lt;/div&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 14.22%; top: 62.21%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.920686);&quot;&gt;Construa um MER para representar os dados de um sistema para um hospital que possui um conjunto de&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 14.22%; top: 63.99%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.96148);&quot;&gt;pacientes, um conjunto de médicos e um conjunto de exames. Cada paciente tem associado exames&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 14.22%; top: 65.77%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.886374);&quot;&gt;realizados sob a responsabilidade de um médico.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUCwfQKhajoaco4yRsPU-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bUCwfQKhajoaco4yRsPU-4" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bUCwfQKhajoaco4yRsPU-6" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
